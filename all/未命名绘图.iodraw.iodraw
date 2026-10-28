@@ -76,11 +76,10 @@
         <mxCell id="T0hD9eXQwBOCIgakhMUf-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T0hD9eXQwBOCIgakhMUf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T0hD9eXQwBOCIgakhMUf-36" target="T0hD9eXQwBOCIgakhMUf-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T0hD9eXQwBOCIgakhMUf-36" value="&lt;h2&gt;输出n能被3和5整除&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="120" height="70" as="geometry" />
+        <mxCell id="T0hD9eXQwBOCIgakhMUf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="T0hD9eXQwBOCIgakhMUf-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
