@@ -82,13 +82,10 @@
         <mxCell id="oWUM_klSPEDcOSTtO1co-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oWUM_klSPEDcOSTtO1co-26" target="oWUM_klSPEDcOSTtO1co-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWUM_klSPEDcOSTtO1co-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="oWUM_klSPEDcOSTtO1co-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="527.5" y="520" as="sourcePoint" />
-            <mxPoint x="532.5" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="528" y="430" />
-            </Array>
+            <mxPoint x="490" y="490" as="sourcePoint" />
+            <mxPoint x="540" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
