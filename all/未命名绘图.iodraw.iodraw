@@ -82,11 +82,6 @@
         <mxCell id="oWUM_klSPEDcOSTtO1co-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oWUM_klSPEDcOSTtO1co-26" target="oWUM_klSPEDcOSTtO1co-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWUM_klSPEDcOSTtO1co-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oWUM_klSPEDcOSTtO1co-40">
-          <mxGeometry x="0.074" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oWUM_klSPEDcOSTtO1co-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="oWUM_klSPEDcOSTtO1co-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="500" as="sourcePoint" />
