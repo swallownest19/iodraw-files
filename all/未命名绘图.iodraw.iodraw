@@ -15,6 +15,9 @@
         <mxCell id="oWUM_klSPEDcOSTtO1co-4" value="&lt;h2&gt;输入a;max=a;i=2&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="80" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oWUM_klSPEDcOSTtO1co-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="128" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
