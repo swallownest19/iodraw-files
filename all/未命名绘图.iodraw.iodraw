@@ -91,7 +91,7 @@
         <mxCell id="oWUM_klSPEDcOSTtO1co-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oWUM_klSPEDcOSTtO1co-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="210" y="505" as="targetPoint" />
+            <mxPoint x="190" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
