@@ -34,6 +34,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="T0hD9eXQwBOCIgakhMUf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0hD9eXQwBOCIgakhMUf-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T0hD9eXQwBOCIgakhMUf-11" value="&lt;h2&gt;n是否被3整除&lt;/h2&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="120" height="100" as="geometry" />
         </mxCell>
@@ -49,11 +54,6 @@
         <mxCell id="T0hD9eXQwBOCIgakhMUf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0hD9eXQwBOCIgakhMUf-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T0hD9eXQwBOCIgakhMUf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0hD9eXQwBOCIgakhMUf-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T0hD9eXQwBOCIgakhMUf-15" value="&lt;h2&gt;n是否被5整除&lt;/h2&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
