@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T0hD9eXQwBOCIgakhMUf-11" value="&lt;h1&gt;n是否被3整除&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="190" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
