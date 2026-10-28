@@ -34,7 +34,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0hD9eXQwBOCIgakhMUf-11" value="&lt;h1&gt;n是否被3整除&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T0hD9eXQwBOCIgakhMUf-11" value="&lt;h2&gt;n是否被3整除&lt;/h2&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T0hD9eXQwBOCIgakhMUf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0hD9eXQwBOCIgakhMUf-15">
