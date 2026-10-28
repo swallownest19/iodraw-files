@@ -73,6 +73,11 @@
             <mxPoint x="560" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="T0hD9eXQwBOCIgakhMUf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T0hD9eXQwBOCIgakhMUf-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T0hD9eXQwBOCIgakhMUf-34" value="&lt;h2&gt;输出“n不能同时被3和5整除”&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="130" height="70" as="geometry" />
         </mxCell>
@@ -81,7 +86,7 @@
             <mxPoint x="380" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0hD9eXQwBOCIgakhMUf-39" value="&lt;h2&gt;输出“n能被3和5整除”&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T0hD9eXQwBOCIgakhMUf-39" value="&lt;h2&gt;输出“n能同时被3和5整除”&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
